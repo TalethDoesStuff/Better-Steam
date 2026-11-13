@@ -1,0 +1,25 @@
+[Icon Theme]
+Name=Better Steam
+Comment=Better steam
+Inherits=breeze-dark,hicolor
+Directories=apps/128x128,apps/256x256,apps/512x512,apps/1024x1024
+
+[apps/128x128]
+Size=128
+Context=Applications
+Type=Fixed
+
+[apps/256x256]
+Size=256
+Context=Applications
+Type=Fixed
+
+[apps/512x512]
+Size=512
+Context=Applications
+Type=Fixed
+
+[apps/1024x1024]
+Size=1024
+Context=Applications
+Type=Fixed
